@@ -1,0 +1,2 @@
+// print dublicated lines
+uniq -d file.txt
